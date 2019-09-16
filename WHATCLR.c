@@ -1,5 +1,5 @@
 /*----------------------------------------------------
-xxxxxxxx.c -- xxxxxxxx
+WHATCLR.c -- Display Colour under Cursor
               (c) Charles Petzold, 1998
 ----------------------------------------------------*/
 
